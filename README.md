@@ -22,7 +22,7 @@ Legal copies of Earth Defense Force 5 [![Steam](https://img.shields.io/badge/ste
 
 # What does this mod do to EDF 5 & 6
 
-The Porting (Python & Batch script) will take the audio packages from EDF 5 and place them into the spots were the [BlueAmulet's Mod Loader](https://github.com/BlueAmulet/EDF5ModLoader) can see the files that will allow EDF 6 to use the content. While this package 
+The Porting (Python & Batch script) will take the audio packages from EDF 5 and place them into the spots were the [BlueAmulet's Mod Loader](https://github.com/BlueAmulet/EDF5ModLoader) can see the files that will allow EDF 6 to use the content. While this package adds the missions & Subtitles for each respective language,
 
 ## Please Support the offical developers of SANDLOT and D3 PUBLISHER INC. 
 # EARTH DEFENSE FORCE is the registered trademark of SANDLOT and D3 PUBLISHER INC. This project is not affiliated with or endorsed by SANDLOT or D3 PUBLISHER INC in anyway.
