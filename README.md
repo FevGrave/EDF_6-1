@@ -5,7 +5,7 @@ A Earth Defense Force 6 modification to add all the missions from 5 onto 6
 [![Generic badge](https://img.shields.io/badge/All%20missions%20in%20total-287%2B-brightgreen)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Missions%20completed-0-red)](https://shields.io/)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total)
 
 ## Repos to languages (If the language you speak or read is not on here, consider helping out)
