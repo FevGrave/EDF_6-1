@@ -4,7 +4,7 @@
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total)
 ## Repos to languages
-[![Generic badge](https://img.shields.io/badge/Subtitles-EN-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Subtitles-JP-white)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Subtitles-CN-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Subtitles-KR-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Subtitles-EN-blueviolet)](https://github.com/FevGrave/EDF_6-1) [![Generic badge](https://img.shields.io/badge/Subtitles-JP-white)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Subtitles-CN-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Subtitles-KR-blue)](https://shields.io/)
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/a9JKEV8xHS) : Join us at the Public Earth Defense Force Server
 
