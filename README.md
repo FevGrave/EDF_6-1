@@ -25,7 +25,7 @@ A Earth Defense Force 6 modification to add all the missions from 5 onto 6
 ## Requirements
 Legal copies of Earth Defense Force 5 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/) & Earth Defense Force 6 
 
-**Note** Illegal copies of Earth Defense Force 5 &-OR 6 will still work alongside this mod, but I, Nor the other modders will not help you if any issues arise
+**Note** Illegal copies of Earth Defense Force 5 may work alongside this mod, but I, Nor the other modders will not help you if any issues arise
 
 # What does this mod do to EDF 5 & 6
 
