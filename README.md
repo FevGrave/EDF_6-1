@@ -10,9 +10,20 @@ A Earth Defense Force 6 modification to add all the missions from 5 onto 6
 
 ## Repos to Subtitled Languages (If the language you speak or read is not on here, consider helping out)
 [![Generic badge](https://img.shields.io/badge/Subtitles-EN_(5)-blueviolet)](https://github.com/FevGrave/EDF_6-1)
-![Generic badge](https://img.shields.io/badge/字幕-JP_(5)-white)
-![Generic badge](https://img.shields.io/badge/字幕-CN_(5)-red)
-![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blue)
+![Generic badge](https://img.shields.io/badge/字幕-JP_(5)-blueviolet)
+![Generic badge](https://img.shields.io/badge/字幕-CN_(5)-blueviolet)
+![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blueviolet)
+![Generic badge](https://img.shields.io/badge/Titulky-CZ_(5&6)-blueviolet)
+### Guide of how far translation is being done
+![Generic badge](https://img.shields.io/badge/0_Translated-blueviolet-blueviolet)
+![Generic badge](https://img.shields.io/badge/12.5_Translated-blue-blue)
+![Generic badge](https://img.shields.io/badge/25_Translated-cyan-cyan)
+![Generic badge](https://img.shields.io/badge/37.5_Translated-seafoam-seafoam)
+![Generic badge](https://img.shields.io/badge/50_Translated-green-green)
+![Generic badge](https://img.shields.io/badge/62.5_Translated-yellow-yellow)
+![Generic badge](https://img.shields.io/badge/75_Translated-orange-orange)
+![Generic badge](https://img.shields.io/badge/87.5_Translated-red-red)
+![Generic badge](https://img.shields.io/badge/100_Translated-maroon-maroon)
 
 ## Official EDF Social Media Hubs
 [![Generic badge](https://img.shields.io/discord/207292314064781312?logo=discord&style=social)](https://discord.gg/a9JKEV8xHS)
