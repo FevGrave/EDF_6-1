@@ -8,13 +8,13 @@ A Earth Defense Force 6 modification to add all the missions from 5 onto 6
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg)
 ![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total)
 
-## Repos to subtitled languages (If the language you speak or read is not on here, consider helping out)
-[![Generic badge](https://img.shields.io/badge/Subtitles-EN-blueviolet)](https://github.com/FevGrave/EDF_6-1)
-![Generic badge](https://img.shields.io/badge/字幕-JP-white)
-![Generic badge](https://img.shields.io/badge/字幕-CN-red)
-![Generic badge](https://img.shields.io/badge/자막-KR-blue)
+## Repos to Subtitled Languages (If the language you speak or read is not on here, consider helping out)
+[![Generic badge](https://img.shields.io/badge/Subtitles-EN_(5)-blueviolet)](https://github.com/FevGrave/EDF_6-1)
+![Generic badge](https://img.shields.io/badge/字幕-JP_(5)-white)
+![Generic badge](https://img.shields.io/badge/字幕-CN_(5)-red)
+![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blue)
 
-## Official EDF Social media Hubs
+## Official EDF Social Media Hubs
 [![Generic badge](https://img.shields.io/discord/207292314064781312?logo=discord&style=social)](https://discord.gg/a9JKEV8xHS)
 [![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=social)](https://twitter.com/EDF_OFFICIAL_EN)
 [![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL?style=social)](https://twitter.com/EDF_OFFICIAL)
