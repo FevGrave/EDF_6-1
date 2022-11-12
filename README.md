@@ -14,9 +14,8 @@ A Earth Defense Force 6 modification to add all the missions from 5 onto 6
 ![Generic badge](https://img.shields.io/badge/字幕-CN-red)
 ![Generic badge](https://img.shields.io/badge/자막-KR-blue)
 
-## Social media 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/a9JKEV8xHS) : Join us at the Public Earth Defense Force Server
-
+## Official EDF Social media Hubs
+[![Generic badge](https://img.shields.io/discord/207292314064781312?logo=discord&style=social)](https://discord.gg/a9JKEV8xHS)
 [![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=social)](https://twitter.com/EDF_OFFICIAL_EN)
 [![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL?style=social)](https://twitter.com/EDF_OFFICIAL)
 [![Generic badge](https://img.shields.io/twitter/follow/D3_PUBLISHER?style=social)](https://twitter.com/D3_PUBLISHER)
