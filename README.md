@@ -1,8 +1,8 @@
 # EDF 6-1
 A Earth Defense Force 6 modification to add all the missions from 5 onto 6
 
-![Generic badge](https://img.shields.io/badge/Campaign%20missions%20in%20total-258-green)
-![Generic badge](https://img.shields.io/badge/All%20missions%20in%20total-287%2B-brightgreen)
+![Generic badge](https://img.shields.io/badge/Campaign%20missions%20in%20total-259-green)
+![Generic badge](https://img.shields.io/badge/All%20missions%20in%20total-288%2B-brightgreen)
 ![Generic badge](https://img.shields.io/badge/Missions%20completed-0-red)
 ![Windows](https://svgshare.com/i/ZhY.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg)
