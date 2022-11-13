@@ -13,7 +13,7 @@ A Earth Defense Force 6 modification to add all the missions from 5 onto 6
 ![Generic badge](https://img.shields.io/badge/字幕-JP_(5)-blueviolet)
 ![Generic badge](https://img.shields.io/badge/字幕-CN_(5)-blueviolet)
 ![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blueviolet)
-![Generic badge](https://img.shields.io/badge/Titulky-CZ_(5&6)-blueviolet)
+![Generic badge](https://img.shields.io/badge/Titulky_a_Uživatelské_Rozhraní-CZ_(5&6)-blueviolet)
 ### Guide of how far translation is being done
 ![Generic badge](https://img.shields.io/badge/0_Translated-blueviolet-blueviolet)
 ![Generic badge](https://img.shields.io/badge/12.5_Translated-blue-blue)
