@@ -7,6 +7,11 @@ A Earth Defense Force 6 modification to add all the missions from 5 onto 6
 ![Windows](https://svgshare.com/i/ZhY.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg)
 ![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total)
+[![Generic badge](https://img.shields.io/discord/207292314064781312?logo=discord&style=social)](https://discord.gg/a9JKEV8xHS)
+[![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=social)](https://twitter.com/EDF_OFFICIAL_EN)
+[![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL?style=social)](https://twitter.com/EDF_OFFICIAL)
+[![Generic badge](https://img.shields.io/twitter/follow/D3_PUBLISHER?style=social)](https://twitter.com/D3_PUBLISHER)
+[![Generic badge](https://img.shields.io/reddit/subreddit-subscribers/EDF?style=social)](https://www.reddit.com/r/EDF)
 
 ## Requirements
 Intstalation of [BlueAmulet's Mod Loader](https://github.com/BlueAmulet/EDF5ModLoader) with its optional plugins 6 zip file.
@@ -39,13 +44,6 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
 ![Generic badge](https://img.shields.io/badge/字幕-CN_(5)-blueviolet)
 ![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blueviolet)
 ![Generic badge](https://img.shields.io/badge/Titulky_a_Uživatelské_Rozhraní-CZ_(5&6)-blueviolet)
-
-## Official EDF Social Media Hubs
-[![Generic badge](https://img.shields.io/discord/207292314064781312?logo=discord&style=social)](https://discord.gg/a9JKEV8xHS)
-[![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=social)](https://twitter.com/EDF_OFFICIAL_EN)
-[![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL?style=social)](https://twitter.com/EDF_OFFICIAL)
-[![Generic badge](https://img.shields.io/twitter/follow/D3_PUBLISHER?style=social)](https://twitter.com/D3_PUBLISHER)
-[![Generic badge](https://img.shields.io/reddit/subreddit-subscribers/EDF?style=social)](https://www.reddit.com/r/EDF)
 
 ## Please Support the official developers of SANDLOT and D3 PUBLISHER INC. 
 # EARTH DEFENSE FORCE is the registered trademark of SANDLOT and D3 PUBLISHER INC. This project is not affiliated with or endorsed by SANDLOT or D3 PUBLISHER INC.
