@@ -37,13 +37,13 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
 ![Generic badge](https://img.shields.io/badge/100_Translated-maroon-maroon)
 ### Badge Template - - - Edit out the {with the stuff within}
 ``` 
-[![Generic badge](https://img.shields.io/badge/{Subtitles and UI translated in your language}-{two letter repisenting your language}_(5&6)-{progress color})]({link to your repo})
+[![Generic badge](https://img.shields.io/badge/{Subtitles, UI, and Dubbing, translated in your language}-{two letter repisenting your language}_(5&6)-{progress color})]({link to your repo})
 ```
 [![Generic badge](https://img.shields.io/badge/Subtitles-EN_(5)-blueviolet)](https://github.com/FevGrave/EDF_6-1)
 ![Generic badge](https://img.shields.io/badge/字幕-JP_(5)-blueviolet)
 ![Generic badge](https://img.shields.io/badge/字幕-CN_(5)-blueviolet)
 ![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blueviolet)
-![Generic badge](https://img.shields.io/badge/Titulky_a_Uživatelské_Rozhraní-CZ_(5&6)-blueviolet)
+![Generic badge](https://img.shields.io/badge/Titulky,_uživatelské_rozhraní_a_dabing-CZ_(5&6)-blueviolet)
 
 ## Please Support the official developers of SANDLOT and D3 PUBLISHER INC. 
 # EARTH DEFENSE FORCE is the registered trademark of SANDLOT and D3 PUBLISHER INC. This project is not affiliated with or endorsed by SANDLOT or D3 PUBLISHER INC.
