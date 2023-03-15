@@ -7,11 +7,11 @@ A Earth Defense Force 6 Modification. Adds EDF 5 missions onto EDF 6's updated X
 ![Windows](https://svgshare.com/i/ZhY.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg)
 ![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total)
-[![Generic badge](https://img.shields.io/discord/207292314064781312?logo=discord&style=social)](https://discord.gg/a9JKEV8xHS)
-[![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=social)](https://twitter.com/EDF_OFFICIAL_EN)
-[![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL?style=social)](https://twitter.com/EDF_OFFICIAL)
-[![Generic badge](https://img.shields.io/twitter/follow/D3_PUBLISHER?style=social)](https://twitter.com/D3_PUBLISHER)
-[![Generic badge](https://img.shields.io/reddit/subreddit-subscribers/EDF?style=social)](https://www.reddit.com/r/EDF)
+[![Discord](https://img.shields.io/badge/Join_The_Earth_Defense_Force_Discord_Partnered_Server-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/a9JKEV8xHS)
+[![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=plastic&logo=twitter&social)](https://twitter.com/EDF_OFFICIAL_EN)
+[![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL?style=plastic&logo=twitter&social)](https://twitter.com/EDF_OFFICIAL)
+[![Generic badge](https://img.shields.io/twitter/follow/D3_PUBLISHER?style=&plastic&logo=twitter&social)](https://twitter.com/D3_PUBLISHER)
+[![Generic badge](https://img.shields.io/reddit/subreddit-subscribers/EDF?style=plastic&logo=reddit&social)](https://www.reddit.com/r/EDF)
 
 ## LINKS
 
@@ -29,26 +29,26 @@ Legal copies of [Earth Defense Force 5](https://www.d3p.co.jp/edf5/) & [Earth De
 The Porting (Python & Batch script) will take the audio packages from EDF 5 and place them into the spots where the [BlueAmulet's Mod Loader](https://github.com/BlueAmulet/EDF5ModLoader) can see the files that will allow EDF 6 to use the content. While this package adds the missions & Subtitles for each respective languages, This is remaking all the missions from edf 5 within the edf 6's updated XGS engine from scratch
 
 ## Planed changes todo
-• Port EDF 5 missions onto EDF 6 and change "Online & Offline Mission pack" to "Complete Story Pack"
-• Adding Special Shoot-able Target in EACH mission that explode with crates
-• Turrets, Helicopters, Tanks, & Mission Found Vehicles WILL be shared with Ranger and Air Raider, While Air Raider receives the EMC tanks, & Bikes
-• All cool and unique weapon that have like 2 weapons like will have like 8
-• Air Raider will receive a new equipment slot
-• All classes will receive equal equipment effects on some of the gear or new sets
-	1. Base Walking Speed: 5 - 20% boost on AR and WD
-	2. Item Acquisition Radius
-	3. Speed Reduction (Being Hit)
-	4. Knocked Down by Blast Wave Immunity
-	5. Lock-on Speed
-	6. Lock-on Range
-	7. Ally Amount healed (Heal Items Obtained)
-• The best tier of equipment "Storm One Equipment" will emulate 80% of the best equipment stats up to the current item level
-• SsethTzeentach's Complaint on Wingdiver's guns having "-has a fucking magazine" on weapon selection menu
-• Re-import the boss from EDF 5 into EDF 6 (Hopefully they keep the)
-• Fix Any Translation Errors Example: "Combat Frame" with "powered exoskeleton"
-• Max Weapon Level might reach 250~
-• Meme gun category for all classes:
-• More loading screen tips
+ - Port EDF 5 missions onto EDF 6 and change "Online & Offline Mission pack" to "Complete Story Pack"
+ - Adding Special Custom Textured Shoot-able Target in EACH mission that explode with crates once destroyed
+ - Turrets, Helicopters, Tanks, & Mission Found Vehicles WILL be shared with Ranger and Air Raider, While Air Raider receives the EMC tanks, & Bikes
+ - All cool and unique weapon that have like 2 weapons like will have like 8
+ - Air Raider will receive a new equipment slot.
+ - All classes will receive equal equipment effects on some of the gear or new sets
+	 1. Base Walking Speed: 5 - 20% boost on AR and WD
+	 2. Item Acquisition Radius
+	 3. Speed Reduction (Being Hit)
+	 4. Knocked Down by Blast Wave Immunity
+	 5. Lock-on Speed
+	 6. Lock-on Range
+	 7. Ally Amount healed (Heal Items Obtained)
+ - The best tier of equipment "Storm One Equipment"  at every 25 levels in count will emulate 80% of the best equipment stats up to the current item level
+ - SsethTzeentach's Complaint on Wingdiver's guns having "-has a fucking magazine" on weapon selection menu
+ - Re-import the boss from EDF 5 into EDF 6 (Hopefully they keep the same xgs_scene_object_class name)
+ - Fix Any Translation Errors Example: "Combat Frame" with "powered exoskeleton" is incorrect on item names
+ - Max Weapon Level might reach 250~
+ - Meme gun category for all classes:
+ - More loading screen tips
 
 ## Repos to Subtitled Languages (If the language you speak or read is not on here, consider helping out)
  Guide of how far translation is being done
