@@ -29,19 +29,26 @@ Legal copies of [Earth Defense Force 5](https://www.d3p.co.jp/edf5/) & [Earth De
 The Porting (Python & Batch script) will take the audio packages from EDF 5 and place them into the spots where the [BlueAmulet's Mod Loader](https://github.com/BlueAmulet/EDF5ModLoader) can see the files that will allow EDF 6 to use the content. While this package adds the missions & Subtitles for each respective languages, This is remaking all the missions from edf 5 within the edf 6's updated XGS engine from scratch
 
 ## Planed changes todo
-
- - Turrets, Helicopters, Tanks, & Mission Found Vehicles WILL be shared with Ranger and Air Raider, While Air Raider receives the EMC, Bikes
- - Air Raider will receive a new equipment slot 
- - All classes will receive equal equipment effects on the gear
-	 1. Base Walking Speed
-	 2. Item Acquisition Radius
-	 3. Speed Reduction (Being Hit)
-	 4. Knocked Down by Blast Wave Immunity
-	 5. Lock-on Speed
-	 6. Lock-on Range
-	 7. Ally Amount healed (Heal Items Obtained)
- - Meme gun category for all classes
- - SsethTzeentach's Complaint on Wingdiver's guns having "-has a fucking magazine" on weapon selection menu
+• Port EDF 5 missions onto EDF 6 and change "Online & Offline Mission pack" to "Complete Story Pack"
+• Adding Special Shoot-able Target in EACH mission that explode with crates
+• Turrets, Helicopters, Tanks, & Mission Found Vehicles WILL be shared with Ranger and Air Raider, While Air Raider receives the EMC tanks, & Bikes
+• All cool and unique weapon that have like 2 weapons like will have like 8
+• Air Raider will receive a new equipment slot
+• All classes will receive equal equipment effects on some of the gear or new sets
+	1. Base Walking Speed: 5 - 20% boost on AR and WD
+	2. Item Acquisition Radius
+	3. Speed Reduction (Being Hit)
+	4. Knocked Down by Blast Wave Immunity
+	5. Lock-on Speed
+	6. Lock-on Range
+	7. Ally Amount healed (Heal Items Obtained)
+• The best tier of equipment "Storm One Equipment" will emulate 80% of the best equipment stats up to the current item level
+• SsethTzeentach's Complaint on Wingdiver's guns having "-has a fucking magazine" on weapon selection menu
+• Re-import the boss from EDF 5 into EDF 6 (Hopefully they keep the)
+• Fix Any Translation Errors Example: "Combat Frame" with "powered exoskeleton"
+• Max Weapon Level might reach 250~
+• Meme gun category for all classes:
+• More loading screen tips
 
 ## Repos to Subtitled Languages (If the language you speak or read is not on here, consider helping out)
  Guide of how far translation is being done
