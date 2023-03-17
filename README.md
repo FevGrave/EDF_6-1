@@ -1,16 +1,16 @@
 # EDF 6-1
 A Earth Defense Force 6 Modification. Adds EDF 5 missions onto EDF 6's updated XGS engine
 
-![Generic badge](https://img.shields.io/badge/Campaign%20missions%20in%20total-259-green)
-![Generic badge](https://img.shields.io/badge/All%20missions%20in%20total-303%2B-brightgreen)
-![Generic badge](https://img.shields.io/badge/Missions%20completed-0-red)
-![Windows](https://svgshare.com/i/ZhY.svg)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg)
-![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total)
+![Generic badge](https://img.shields.io/badge/Campaign%20missions%20in%20total-259-green?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/All%20missions%20in%20total-303%2B-brightgreen?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/Missions%20completed-0-red?style=plastic&logo)
+![Windows](https://img.shields.io/badge/Windows_10_&_11-0078D6?style=plastic&logo=for-the-badge&logo=windows&logoColor=white)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg?style=plastic&logo)
+![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total?style=plastic&logo)
 [![Discord](https://img.shields.io/badge/Join_The_Earth_Defense_Force_Discord_Partnered_Server-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/a9JKEV8xHS)
 [![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=plastic&logo=twitter&social)](https://twitter.com/EDF_OFFICIAL_EN)
 [![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL?style=plastic&logo=twitter&social)](https://twitter.com/EDF_OFFICIAL)
-[![Generic badge](https://img.shields.io/twitter/follow/D3_PUBLISHER?style=&plastic&logo=twitter&social)](https://twitter.com/D3_PUBLISHER)
+[![Generic badge](https://img.shields.io/twitter/follow/D3_PUBLISHER?style=plastic&logo=twitter&social)](https://twitter.com/D3_PUBLISHER)
 [![Generic badge](https://img.shields.io/reddit/subreddit-subscribers/EDF?style=plastic&logo=reddit&social)](https://www.reddit.com/r/EDF)
 
 ## LINKS
