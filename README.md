@@ -52,24 +52,24 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
 
 ## Repos to Subtitled Languages (If the language you speak or read is not on here, consider helping out)
  Guide of how far translation is being done
-![Generic badge](https://img.shields.io/badge/0%25_Translated-blueviolet-blueviolet)
-![Generic badge](https://img.shields.io/badge/12.5%25_Translated-blue-blue)
-![Generic badge](https://img.shields.io/badge/25%25_Translated-cyan-cyan)
-![Generic badge](https://img.shields.io/badge/37.5%25_Translated-seafoam-seafoam)
-![Generic badge](https://img.shields.io/badge/50%25_Translated-green-green)
-![Generic badge](https://img.shields.io/badge/62.5%25_Translated-yellow-yellow)
-![Generic badge](https://img.shields.io/badge/75%25_Translated-orange-orange)
-![Generic badge](https://img.shields.io/badge/87.5%25_Translated-red-red)
-![Generic badge](https://img.shields.io/badge/100%25_Translated-maroon-maroon)
+![Generic badge](https://img.shields.io/badge/0%25_Translated-blueviolet-blueviolet?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/12.5%25_Translated-blue-blue?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/25%25_Translated-cyan-cyan?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/37.5%25_Translated-seafoam-seafoam?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/50%25_Translated-green-green?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/62.5%25_Translated-yellow-yellow?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/75%25_Translated-orange-orange?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/87.5%25_Translated-red-red?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/100%25_Translated-maroon-maroon?style=plastic&logo)
 ### Badge Template - Edit out the {{{with the stuff within}}}
 ``` 
-[![Generic badge](https://img.shields.io/badge/{{{Subtitles, UI, and Dubbing, translated in your language}}}-{{{two letter repisenting your language}}}_(5&6)-{{{progress color}}})]({{{link to your repo}}})
+[![Generic badge](https://img.shields.io/badge/{{{Subtitles, UI, and Dubbing, translated in your language}}}-{{{two letter repisenting your language}}}_(5&6)-{{{progress color}}}?style=plastic&logo)]({{{link to your repo}}})
 ```
-[![Generic badge](https://img.shields.io/badge/Subtitles-EN_(5)-blueviolet)](https://github.com/FevGrave/EDF_6-1)
-![Generic badge](https://img.shields.io/badge/字幕-JP_(5)-blueviolet)
-![Generic badge](https://img.shields.io/badge/字幕-CN_(5)-blueviolet)
-![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blueviolet)
-![Generic badge](https://img.shields.io/badge/Titulky,_uživatelské_rozhraní_a_dabing-CZ_(5&6)-blueviolet)
+[![Generic badge](https://img.shields.io/badge/Subtitles-EN_(5)-blueviolet?style=plastic&logo)](https://github.com/FevGrave/EDF_6-1)
+![Generic badge](https://img.shields.io/badge/字幕-JP_(5)-blueviolet?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/字幕-CN_(5)-blueviolet?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blueviolet?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/Titulky,_uživatelské_rozhraní_a_dabing-CZ_(5&6)-blueviolet?style=plastic&logo)
 
 ## Please Support the official developers of SANDLOT and D3 PUBLISHER INC. 
 # EARTH DEFENSE FORCE is the registered trademark of SANDLOT and D3 PUBLISHER INC. This project is not affiliated with or endorsed by SANDLOT or D3 PUBLISHER INC.
