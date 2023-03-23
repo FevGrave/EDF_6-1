@@ -31,6 +31,7 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
 ## Planed changes todo
  - Port EDF 5 missions onto EDF 6 and change "Online & Offline Mission pack" to "Complete Story Pack"
  - Adding Special Custom Textured Shoot-able Target in EACH mission that explode with crates once destroyed
+ - Increase the max amount of loot that can drop (From 128) & can be picked up (From 1024)
  - Turrets, Helicopters, Tanks, & Mission Found Vehicles WILL be shared with Ranger and Air Raider, While Air Raider receives the EMC tanks, & Bikes
  - All cool and unique weapon that have like 2 weapons like will have like 8
  - Air Raider will receive a new equipment slot.
