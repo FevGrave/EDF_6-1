@@ -33,7 +33,7 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
  - Adding Special Custom Textured Shoot-able Target in EACH mission that explode with crates once destroyed
  - Increase the max amount of loot that can drop (From 128) & can be picked up (From 1024)
  - Turrets, Helicopters, Tanks, & Mission Found Vehicles WILL be shared with Ranger and Air Raider, While Air Raider receives the EMC tanks, & Bikes
- - All cool and unique weapon that have like 2 weapons like will have like 8
+ - All cool and unique weapon that have like 2 weapons like will have 8 in total
  - Air Raider will receive a new equipment slot.
  - All classes will receive equal equipment effects on some of the gear or new sets
 	 1. Base Walking Speed: 5 - 20% boost on AR and WD
