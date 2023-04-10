@@ -33,7 +33,7 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
  - Adding Special Custom Textured Shoot-able Target in EACH mission that explode with crates once destroyed
  - Increase the max amount of loot that can drop (From 128) & can be picked up (From 1024)
  - Turrets, Helicopters, Tanks, & Mission Found Vehicles WILL be shared with Ranger and Air Raider, While Air Raider receives the EMC tanks, & Bikes
- - All cool and unique weapon that have like 2 weapons like will have 8 in total
+ - All cool and unique weapon that have like 2 weapons ie (Vulcan Hammer) will have a total of 8 versions
  - Air Raider will receive a new equipment slot.
  - All classes will receive equal equipment effects on some of the gear or new sets
 	 1. Base Walking Speed: 5 - 20% boost on AR and WD
@@ -43,10 +43,10 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
 	 5. Lock-on Speed
 	 6. Lock-on Range
 	 7. Ally Amount healed (Heal Items Obtained)
- - The best tier of equipment "Storm One Equipment"  at every 25 levels in count will emulate 80% of the best equipment stats up to the current item level
+ - The best tier of equipment "Storm One Equipment"  at every 50 levels in count will emulate 80% of the best equipment stats up to the current item level
  - SsethTzeentach's Complaint on Wingdiver's guns having "-has a fucking magazine" on weapon selection menu
  - Re-import the boss from EDF 5 into EDF 6 (Hopefully they keep the same xgs_scene_object_class name)
- - Fix Any Translation Errors Example: "Combat Frame" with "powered exoskeleton" is incorrect on item names
+ - Fix Any Translation Errors Example: "Combat Frame" with "Powered Exoskeleton" is incorrect on item names
  - Max Weapon Level might reach 250~
  - Meme gun category for all classes:
  - More loading screen tips
@@ -72,5 +72,4 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
 ![Generic badge](https://img.shields.io/badge/자막-KR_(5)-blueviolet?style=plastic&logo)
 ![Generic badge](https://img.shields.io/badge/Titulky,_uživatelské_rozhraní_a_dabing-CZ_(5&6)-blueviolet?style=plastic&logo)
 
-## Please Support the official developers of SANDLOT and D3 PUBLISHER INC. 
-# EARTH DEFENSE FORCE is the registered trademark of SANDLOT and D3 PUBLISHER INC. This project is not affiliated with or endorsed by SANDLOT or D3 PUBLISHER INC.
+# EARTH DEFENSE FORCE is the registered trademark of SANDLOT and D3 PUBLISHER INC. This project is not affiliated with or endorsed by SANDLOT or D3 PUBLISHER INC. Please Support the official developers of SANDLOT and D3 PUBLISHER INC. 
