@@ -5,7 +5,7 @@ A Earth Defense Force 6 Modification. Adds EDF 5 missions onto EDF 6's updated X
 ![Generic badge](https://img.shields.io/badge/All%20missions%20in%20total-346%2B-brightgreen?style=plastic&logo)
 ![Generic badge](https://img.shields.io/badge/Missions%20completed-0-red?style=plastic&logo)
 ![Windows](https://img.shields.io/badge/Windows_10_&_11-0078D6?style=plastic&logo=for-the-badge&logo=windows&logoColor=white)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20Moodding%20Support%20for%20EDF%206%20is%20out%20-blue.svg?style=plastic&logo)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20Modding%20Support%20for%20EDF%206%20is%20out%20-blue.svg?style=plastic&logo)
 ![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total?style=plastic&logo)
 [![Discord](https://img.shields.io/badge/Join_The_Earth_Defense_Force_Discord_Partnered_Server-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/a9JKEV8xHS)
 [![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=plastic&logo=twitter&social)](https://twitter.com/EDF_OFFICIAL_EN)
