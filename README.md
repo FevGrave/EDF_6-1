@@ -1,11 +1,11 @@
-# EDF 6-1
-A Earth Defense Force 6 Modification. Adds EDF 5 missions onto EDF 6's updated XGS engine
+# EDF 6 minus 1
+A Earth Defense Force 6 Modification. Adds EDF 5 missions onto EDF 6's updated XGS engine. 
 
 ![Generic badge](https://img.shields.io/badge/Campaign%20missions%20in%20total-259-green?style=plastic&logo)
-![Generic badge](https://img.shields.io/badge/All%20missions%20in%20total-303%2B-brightgreen?style=plastic&logo)
+![Generic badge](https://img.shields.io/badge/All%20missions%20in%20total-346%2B-brightgreen?style=plastic&logo)
 ![Generic badge](https://img.shields.io/badge/Missions%20completed-0-red?style=plastic&logo)
 ![Windows](https://img.shields.io/badge/Windows_10_&_11-0078D6?style=plastic&logo=for-the-badge&logo=windows&logoColor=white)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20EDF%206%20is%20out%20on%20PC-blue.svg?style=plastic&logo)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-Once%20Moodding%20Support%20for%20EDF%206%20is%20out%20-blue.svg?style=plastic&logo)
 ![Generic badge](https://img.shields.io/github/downloads/FevGrave/EDF_6-1/total?style=plastic&logo)
 [![Discord](https://img.shields.io/badge/Join_The_Earth_Defense_Force_Discord_Partnered_Server-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/a9JKEV8xHS)
 [![Generic badge](https://img.shields.io/twitter/follow/EDF_OFFICIAL_EN?style=plastic&logo=twitter&social)](https://twitter.com/EDF_OFFICIAL_EN)
@@ -22,7 +22,7 @@ Intstalation of [BlueAmulet's Mod Loader](https://github.com/BlueAmulet/EDF5ModL
 
 Legal copies of [Earth Defense Force 5](https://www.d3p.co.jp/edf5/) & [Earth Defense Force 6](https://www.d3p.co.jp/edf6/) 
 
-**Note** Any illegal copy of Earth Defense Force 5 may work alongside this mod, but I, Nor the other modders will not help you if any issues arise. In addition [BlueAmulet's Mod Loader](https://github.com/BlueAmulet/EDF5ModLoader) will **NOT** work on any illegal copies EDF,
+**Note** Any illegal copy of Earth Defense Force 5 may work alongside this mod, but I, Nor the other modders will not help you if any issues arise. In addition [BlueAmulet's Mod Loader](https://github.com/BlueAmulet/EDF5ModLoader) will **NOT** work on any illegal copies of EDF for steam,
 
 ## What does this mod do to EDF 5 & 6
 
@@ -50,6 +50,8 @@ The Porting (Python & Batch script) will take the audio packages from EDF 5 and 
  - Max Weapon Level might reach 250~
  - Meme gun category for all classes:
  - More loading screen tips
+ - Eventually make a mission content adding generator, to be other mod friendly!
+ - SEE OTHER AIR RAIDERS IN MISSIONS (Just ranger's in desguise)
 
 ## Repos to Subtitled Languages (If the language you speak or read is not on here, consider helping out)
  Guide of how far translation is being done
